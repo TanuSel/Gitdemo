@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SFWMD Selenium Pumping Order Suite]">
+  <test name="Selenium pumpingOrdertest(failed)">
+    <classes>
+      <class name="gov.sfwmd.Selenium.PumpingSiteStatus.CheckDateTimeTest">
+        <methods>
+          <include name="dateandtimecheck"/>
+          <include name="pagecheckTimeValue"/>
+          <include name="Teardown"/>
+        </methods>
+      </class> <!-- gov.sfwmd.Selenium.PumpingSiteStatus.CheckDateTimeTest -->
+    </classes>
+  </test> <!-- Selenium pumpingOrdertest(failed) -->
+</suite> <!-- Failed suite [SFWMD Selenium Pumping Order Suite] -->

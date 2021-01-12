@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33491" started-at="2020-11-16T15:34:29Z" finished-at="2020-11-16T15:35:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33491" started-at="2020-11-16T15:34:29Z" finished-at="2020-11-16T15:35:03Z">
+      <class name="gov.sfwmd.Selenium.NexradData.NexradDataTest">
+        <test-method status="PASS" signature="Baseclass()[pri:0, instance:gov.sfwmd.Selenium.NexradData.NexradDataTest@1e127982]" name="Baseclass" is-config="true" duration-ms="26200" started-at="2020-11-16T10:34:30Z" finished-at="2020-11-16T10:34:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Baseclass -->
+        <test-method status="PASS" signature="data()[pri:0, instance:gov.sfwmd.Selenium.NexradData.NexradDataTest@1e127982]" name="data" duration-ms="7159" started-at="2020-11-16T10:34:56Z" finished-at="2020-11-16T10:35:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- data -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:gov.sfwmd.Selenium.NexradData.NexradDataTest@1e127982]" name="teardown" is-config="true" duration-ms="1" started-at="2020-11-16T10:35:03Z" finished-at="2020-11-16T10:35:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- gov.sfwmd.Selenium.NexradData.NexradDataTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
